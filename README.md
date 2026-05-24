@@ -10,7 +10,7 @@ https://github.com/satishbabu0/Smart-AI-Helmet-Patent
 
 ---
 
-## 🛡️ AI-Based Smart Risk Detection Helmet for Two-Wheeler Safety
+# 🛡️ AI-Based Smart Risk Detection Helmet for Two-Wheeler Safety
 
 This repository contains the complete patent documentation, research materials, technical architecture, and project design for the **Smart AI Helmet** — an intelligent safety helmet developed to improve road safety for two-wheeler riders using Artificial Intelligence, IoT, GPS tracking, and real-time accident detection systems.
 
@@ -18,7 +18,7 @@ The project focuses on creating a smarter and safer riding experience by combini
 
 ---
 
-## 📖 Project Overview
+# 📖 Project Overview
 
 Road accidents involving bike riders are increasing rapidly due to overspeeding, unsafe riding behavior, delayed emergency response, and lack of real-time monitoring systems.
 
@@ -35,7 +35,7 @@ This system is designed to help reduce accidents, improve rider awareness, and e
 
 ---
 
-## ✨ Key Features
+# ✨ Key Features
 
 - ⚡ Real-time speed monitoring
 - 🤖 AI-based risky behavior detection
@@ -50,27 +50,31 @@ This system is designed to help reduce accidents, improve rider awareness, and e
 
 ---
 
-## 🧠 Technologies Used
+# 🧠 Technologies Used
 
-The Smart AI Helmet integrates both hardware and software technologies:
+The Smart AI Helmet integrates both hardware and software technologies.
 
-### Hardware Components
+## Hardware Components
+
 - ESP32 Microcontroller
 - GPS Module
 - Accelerometer & Motion Sensors
 - Battery Management System
 - Smart Sensor Array
+- Wireless Communication Modules
 
-### Software & Intelligence
+## Software & Intelligence
+
 - Artificial Intelligence (AI)
 - IoT Communication System
 - Real-time Data Processing
-- Mobile Application Integration
 - Emergency Alert System
+- Mobile Application Integration
+- GPS Tracking & Monitoring
 
 ---
 
-## 🔬 Patent Innovation Highlights
+# 🔬 Patent Innovation Highlights
 
 The core innovation of this invention includes:
 
@@ -80,12 +84,13 @@ The core innovation of this invention includes:
 - Real-time accident prevention support
 - GPS-based accident reporting
 - Smart wearable safety technology
+- Intelligent transportation safety integration
 
 Unlike traditional helmets, this system actively works to prevent accidents before they happen while also ensuring quick emergency response after accidents occur.
 
 ---
 
-## 📂 Repository Contents
+# 📂 Repository Contents
 
 This repository includes:
 
@@ -96,10 +101,11 @@ This repository includes:
 - 🧩 Helmet Architecture Diagrams
 - 📑 System Documentation
 - 📊 Research & Analysis Materials
+- 📱 Application Integration Concepts
 
 ---
 
-## ⚠️ Problem Addressed
+# ⚠️ Problem Addressed
 
 Current helmets mainly provide physical protection and do not help riders during emergencies or dangerous situations.
 
@@ -110,12 +116,13 @@ The Smart AI Helmet addresses critical challenges such as:
 - Delayed emergency response
 - Lack of accident communication systems
 - Poor rider safety awareness
+- Absence of intelligent monitoring systems
 
 The system improves safety by continuously analyzing rider behavior and automatically triggering emergency support when required.
 
 ---
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
 The Smart AI Helmet includes:
 
@@ -125,12 +132,13 @@ The Smart AI Helmet includes:
 - Emergency notification system
 - Mobile connectivity layer
 - Smart alert mechanism
+- Rider analytics engine
 
 The helmet architecture diagram and detailed technical design are included within the repository documentation.
 
 ---
 
-## 📱 Mobile Application Integration
+# 📱 Mobile Application Integration
 
 The helmet connects wirelessly to a smartphone application that allows riders to:
 
@@ -139,12 +147,13 @@ The helmet connects wirelessly to a smartphone application that allows riders to
 - Receive safety alerts
 - Access emergency notifications
 - Track real-time helmet activity
+- Analyze riding behavior
 
 The mobile application acts as a personal riding safety assistant.
 
 ---
 
-## 🏥 Emergency Response System
+# 🏥 Emergency Response System
 
 In the event of an accident:
 
@@ -161,7 +170,7 @@ This helps reduce emergency response time and potentially saves lives.
 
 ---
 
-## 📈 Commercial Potential
+# 📈 Commercial Potential
 
 The Smart AI Helmet has strong commercialization opportunities in multiple industries:
 
@@ -172,12 +181,13 @@ The Smart AI Helmet has strong commercialization opportunities in multiple indus
 - Ride-sharing platforms
 - Smart mobility solutions
 - Emergency response systems
+- AI-based wearable technology
 
 The increasing focus on road safety and smart transportation technologies creates strong market demand for intelligent safety products like this.
 
 ---
 
-## 🔮 Future Scope
+# 🔮 Future Scope
 
 Future enhancements may include:
 
@@ -189,41 +199,50 @@ Future enhancements may include:
 - ☁️ Cloud-based analytics
 - 📡 Vehicle-to-vehicle communication
 - 🌍 Community road safety network
+- 🔋 Smart energy optimization
 
 ---
 
-## 👨‍💻 Inventor
+# 👨‍💻 Inventor
 
-### Kodi Satish Babu
+## Kodi Satish Babu  
 Lovely Professional University  
 Punjab, India
 
 ---
 
-## 📜 Patent & Research Information
+# 📜 Patent & Research Information
 
 This project is developed as part of patent research and innovation work focused on intelligent transportation safety systems and AI-powered wearable technologies.
 
-The repository contains invention disclosure materials, technical concepts, and supporting research documentation related to the Smart AI Helmet system.
+The repository contains invention disclosure materials, technical concepts, innovation architecture, and supporting research documentation related to the Smart AI Helmet system.
 
 ---
 
-## 📄 License
+# 📄 License
 
-This repository is intended for:
+© 2026 Kodi Satish Babu. All Rights Reserved.
 
-- Research purposes
-- Patent documentation
-- Academic innovation
-- Technical reference
+This repository contains patent-related research, technical documentation, design concepts, and innovation materials for the Smart AI Helmet project.
 
-All rights reserved by the inventor and associated contributors.
+No part of this repository may be copied, modified, distributed, reproduced, or used for commercial purposes without explicit permission from the inventor.
+
+This project is shared for academic, research, innovation, and portfolio purposes only.
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you found this project interesting, consider starring the repository and supporting innovation in AI-based road safety technologies.
 
 ---
-```
+
+# 📬 Contact
+
+For research collaboration, innovation discussions, or project-related communication:
+
+📧 Email: Kodisatish76@gmail.com
+
+---
+
+## 🚀 Building Safer Roads with AI-Powered Innovation
